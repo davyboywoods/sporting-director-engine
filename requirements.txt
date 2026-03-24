@@ -1,0 +1,6 @@
+streamlit
+playwright
+nest_asyncio
+httpx
+googlenewsdecoder
+openai
